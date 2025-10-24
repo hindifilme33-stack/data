@@ -1,0 +1,5 @@
+RESOURCE ICON r_symps1_icon.icn
+MENU
+{
+    TEXT "SymPSX"
+}
